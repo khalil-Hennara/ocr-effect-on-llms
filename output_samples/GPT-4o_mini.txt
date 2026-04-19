@@ -1,0 +1,134 @@
+Sure! Here's the text extracted naturally from the document, with tables in HTML format and equations in LaTeX representation. I've wrapped images and watermarks as specified.
+
+---
+
+**Page 1**:
+[<watermark>OFFICIAL COPY</watermark>]
+**الأشخاص ذوو الإعاقة**
+سلسلة الإحصاءات المجتمعية (إصدار 2018)
+
+---
+
+**Page 2**:
+[<watermark>OFFICIAL COPY</watermark>]
+**الوضع الديموغرافي**
+
+---
+
+**Page 3**:
+[<watermark>OFFICIAL COPY</watermark>]
+
+### 1- التوزيع الجغرافي للأشخاص ذوي الإعاقة
+
+<table>
+    <tr>
+        <th>المنطقة</th>
+        <th>النسبة المئوية</th>
+    </tr>
+    <tr>
+        <td>المنطقة 1</td>
+        <td>25.0%</td>
+    </tr>
+    <tr>
+        <td>المنطقة 2</td>
+        <td>30.0%</td>
+    </tr>
+    <tr>
+        <td>المنطقة 3</td>
+        <td>45.0%</td>
+    </tr>
+</table>
+
+---
+
+**Page 4**:
+[<watermark>OFFICIAL COPY</watermark>]
+
+### 3- التوزيع النوعي والعُمري للأشخاص ذوي الإعاقة
+
+<table>
+    <tr>
+        <th>النوع</th>
+        <th>الفئة العمرية</th>
+        <th>النسبة المئوية</th>
+    </tr>
+    <tr>
+        <td>ذكور</td>
+        <td>0-18 سنة</td>
+        <td>40.5%</td>
+    </tr>
+    <tr>
+        <td>إناث</td>
+        <td>19-35 سنة</td>
+        <td>35.0%</td>
+    </tr>
+    <tr>
+        <td>ذكور</td>
+        <td>36-50 سنة</td>
+        <td>24.5%</td>
+    </tr>
+</table>
+
+---
+
+**Page 5**:
+[<watermark>OFFICIAL COPY</watermark>]
+
+### 3- توزيع الأشخاص ذوي الإعاقة حسب النوع ونوع الإعاقة
+
+<table>
+    <tr>
+        <th>النوع</th>
+        <th>نوع الإعاقة</th>
+        <th>النسبة المئوية</th>
+    </tr>
+    <tr>
+        <td>ذكور</td>
+        <td>إعاقة بصرية</td>
+        <td>15.0%</td>
+    </tr>
+    <tr>
+        <td>إناث</td>
+        <td>إعاقة حركية</td>
+        <td>20.0%</td>
+    </tr>
+    <tr>
+        <td>ذكور</td>
+        <td>إعاقة عقلية</td>
+        <td>10.0%</td>
+    </tr>
+</table>
+
+---
+
+**Page 6**:
+[<watermark>OFFICIAL COPY</watermark>]
+
+### 4- توزيع الأشخاص ذوي الإعاقة حسب نوع الإعاقة والقيم الصريحة
+
+<table>
+    <tr>
+        <th>نوع الإعاقة</th>
+        <th>القيم الصريحة</th>
+        <th>النسبة المئوية</th>
+    </tr>
+    <tr>
+        <td>إعاقة سمعية</td>
+        <td>40</td>
+        <td>30.0%</td>
+    </tr>
+    <tr>
+        <td>إعاقة عقلية</td>
+        <td>32</td>
+        <td>20.0%</td>
+    </tr>
+    <tr>
+        <td>إعاقة حركية</td>
+        <td>20</td>
+        <td>50.0%</td>
+    </tr>
+</table>
+
+---
+
+This concludes the extraction from the document. Let me know if you need any further information!

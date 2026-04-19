@@ -1,0 +1,118 @@
+This document presents statistical data on persons with disabilities in the Sultanate of Oman for the years 2016 and 2017, issued by the National Centre for Statistics and Information.
+
+<page_number>6</page_number>
+# Persons with Disabilities
+### Community Statistics Series
+### 2018 Issue
+
+---
+
+# Demographic Situation
+
+---
+
+<page_number>11</page_number>
+
+### 1- Geographical Distribution of Persons with Disability
+
+It is clear from Table No. (1) that the number of persons registered in the disabled person card system in the Sultanate decreased from (34,861) in 2016 to reach (34,365) disabled persons in 2017. Males constituted (65%) and females (35%) in both years. As for the governorates, the highest percentage of them was concentrated in North Al Batinah Governorate, where they constituted (20.5%) of their total at the governorate level in 2017 (68.6% male vs. 31.4% female), followed by Muscat, Ad Dakhiliyah, and the lowest in Al Wusta Governorate.
+
+> **Disabled:** A person who suffers from a deficiency in some of his sensory, physical or mental abilities congenitally, or as a result of a hereditary factor, illness, or accident, which limits his ability to perform his natural role in life compared to those of his age, and thus needs care and rehabilitation to perform his role in life.
+
+**Table (1): Numerical distribution of persons registered in the disabled card system by gender and governorate for the years (2016 - 2017)**
+
+| Governorate | 2016 | 2016 | 2016 | 2017 | 2017 | 2017 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| | **Male** | **Female** | **Total** | **Male** | **Female** | **Total** |
+| Muscat | 3,313 | 1,950 | 5,263 | 3,277 | 1,910 | 5,187 |
+| Dhofar | 1,764 | 994 | 2,758 | 1,680 | 910 | 2,590 |
+| Musandam | 382 | 124 | 506 | 364 | 117 | 481 |
+| Al Buraymi | 570 | 236 | 806 | 588 | 244 | 832 |
+| Ad Dakhiliyah | 3,161 | 2,021 | 5,182 | 3,105 | 1,986 | 5,091 |
+| North Al Batinah | 4,856 | 2,218 | **7,074** | 4,843 | 2,212 | **7,055** |
+| South Al Batinah | 2,530 | 1,356 | 3,886 | 2,528 | 1,358 | 3,886 |
+| South Ash Sharqiyah | 1,764 | 790 | 2,554 | 1,755 | 787 | 2,542 |
+| North Ash Sharqiyah | 1,889 | 1,009 | 2,898 | 1,839 | 992 | 2,831 |
+| Ad Dhahirah | 2,240 | 1,322 | 3,562 | 2,172 | 1,334 | 3,506 |
+| Al Wusta | 289 | 83 | 372 | 281 | 83 | 364 |
+| **Total** | **22,722** | **12,139** | **34,861** | **22,432** | **11,933** | **34,365** |
+
+**Fact:-**
+More than a billion people live with some form of disability. This is equivalent to about 15% of the world's population. About 110 million to 190 million adults face significant difficulties in performing their usual tasks. Global disability rates are currently increasing due to aging populations and the increase in chronic diseases worldwide.
+*Source: World Health Organization / Ten facts about disability.*
+
+---
+
+<page_number>12</page_number>
+
+### 2- Gender and Age Distribution of Persons with Disability
+
+Table No. (2) shows that the largest number of persons registered in the disabled card system are concentrated in the age group (30 years and over) in the years (2016 and 2017), as their number increased in 2017 by (726) cases compared to 2016. This age group constituted (58.4%) of the total age groups (67.6% male vs. 32.4% female).
+
+**Table (2): Numerical distribution of persons registered in the disabled card system by age groups and gender for the years (2016 - 2017)**
+
+| Age Groups | 2016 | 2016 | 2016 | 2017 | 2017 | 2017 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| | **Male** | **Female** | **Total** | **Male** | **Female** | **Total** |
+| (Less than 15) | 3,709 | 2,234 | 5,943 | 3,900 | 2,344 | 6,244 |
+| (15 - 19) | 1,472 | 966 | 2,438 | 1,081 | 731 | 1,812 |
+| (20 - 24) | 2,077 | 1,328 | 3,405 | 1,741 | 1,115 | 2,856 |
+| (25 - 29) | 2,345 | 1,385 | 3,730 | 2,134 | 1,248 | 3,382 |
+| (30 and over) | 13,119 | 6,226 | **19,345** | 13,576 | 6,495 | **20,071** |
+| **Total** | **22,722** | **12,139** | **34,861** | **22,432** | **11,933** | **34,365** |
+
+**Fact:-**
+Disability affects vulnerable groups disproportionately. Disability prevalence rates in low-income countries are higher than in high-income countries. Disability is more common among women, the elderly, children and adults living in poverty.
+*Source: World Health Organization / Ten facts about disability.*
+
+---
+
+<page_number>13</page_number>
+
+### 3- Distribution of Persons with Disabilities by Gender and Type of Disability
+
+Table No. (3) shows that about a quarter of registered in the disabled card system in the years 2016 and 2017 are those with physical disabilities: (71.5% male and 28.5% female) for both years.
+
+**Table (3): Numerical distribution of persons registered in the disabled card system by gender and type of disability for the years (2016 - 2017)**
+
+| Type of Disability | 2016 | 2016 | 2016 | 2017 | 2017 | 2017 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| | **Male** | **Female** | **Total** | **Male** | **Female** | **Total** |
+| Visual | 1,757 | 788 | 2,545 | 1,775 | 802 | 2,577 |
+| Auditory | 2,724 | 1,938 | 4,662 | 2,681 | 1,911 | 4,592 |
+| Growth Deficiency | 341 | 216 | 557 | 310 | 188 | 498 |
+| Multiple Disability | 2,752 | 1,810 | 4,562 | 2,692 | 1,783 | 4,475 |
+| Autism | 809 | 171 | 980 | 922 | 199 | 1,121 |
+| Physical | 6,186 | 2,467 | **8,653** | 6,182 | 2,470 | **8,652** |
+| Mental | 4,013 | 2,405 | 6,418 | 3,878 | 2,355 | 6,233 |
+| Epilepsy | 317 | 139 | 456 | 293 | 132 | 425 |
+| Down Syndrome | 715 | 497 | 1,212 | 738 | 515 | 1,253 |
+| Albinism | 4 | 1 | 5 | 4 | 1 | 5 |
+| Other | 3,104 | 1,656 | 4,760 | 2,957 | 1,077 | 4,034 |
+| **Total** | **22,722** | **12,139** | **34,861** | **22,432** | **11,933** | **34,365** |
+
+---
+
+<page_number>14</page_number>
+
+### 4- Distribution of Persons with Disabilities by Type of Disability and Age Groups
+
+Table No. (4) shows that the largest number of persons registered in the disabled card system are concentrated in the age group (30 years and over) in both years (2016 and 2017), where physical disability occupied the largest number in this specific age group, while their number increased in 2017 by (297) cases from 2016. Physical disability in this age group represented (28.2% and 27.7%) in 2016 and 2017 respectively.
+
+**Table (4): Numerical distribution of persons registered in the disabled card system by type of disability and age groups for the years (2016 - 2017)**
+
+| Type of Disability | 2016 | 2016 | 2016 | 2016 | 2016 | 2016 | 2017 | 2017 | 2017 | 2017 | 2017 | 2017 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | **(Less than 15)** | **(15-19)** | **(20-24)** | **(25-29)** | **(30+)** | **Total** | **(Less than 15)** | **(15-19)** | **(20-24)** | **(25-29)** | **(30+)** | **Total** |
+| Visual | 135 | 74 | 120 | 203 | 1,983 | 2,545 | 159 | 55 | 136 | 192 | 2,035 | 2,577 |
+| Auditory | 578 | 271 | 474 | 644 | 2,695 | 4,662 | 647 | 208 | 341 | 538 | 2,858 | 4,592 |
+| Growth Def. | 263 | 65 | 66 | 51 | 112 | 557 | 221 | 47 | 61 | 55 | 114 | 498 |
+| Multiple | 1,269 | 523 | 590 | 584 | 1,596 | 4,562 | 1,274 | 412 | 526 | 550 | 1,713 | 4,475 |
+| Autism | 859 | 37 | 17 | 11 | 56 | 980 | 991 | 31 | 25 | 12 | 62 | 1,121 |
+| Physical | 123 | 497 | 710 | 885 | **5,359** | 8,653 | 1,254 | 365 | 594 | 783 | **5,656** | 8,652 |
+| Mental | 788 | 673 | 1,061 | 1,001 | 2,896 | 6,418 | 827 | 487 | 869 | 970 | 3,080 | 6,233 |
+| Epilepsy | 58 | 42 | 60 | 84 | 212 | 456 | 48 | 29 | 47 | 84 | 217 | 425 |
+| Down Syn. | 634 | 172 | 173 | 108 | 125 | 1,212 | 712 | 127 | 168 | 104 | 142 | 1,253 |
+| Albinism | 1 | 0 | 1 | 2 | 1 | 5 | 0 | 0 | 1 | 1 | 3 | 5 |
+| Other | 155 | 85 | 103 | 107 | 4,310 | 4,760 | 110 | 51 | 89 | 93 | 4,191 | 4,534 |
+| **Total** | **5,943** | **2,438** | **3,405** | **3,730** | **19,345** | **34,861** | **6,244** | **1,812** | **2,856** | **3,382** | **20,071** | **34,365** |
